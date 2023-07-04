@@ -158,7 +158,6 @@ if score1 >= 100:
 if score2 >= 100:
     Label (window, text="Player 2 Wins!           ", bg="black", fg="white", font = "none 24 bold") .grid(row=1, column=5, sticky=W)
 
-# I hope you see this, I really enjoyed this class in this semester. Despite knowing python, I learned quite a bit and I'm glad I took this class. And also, on behalf of my friends, sorry for being loud :)
 window.mainloop()
 
 
